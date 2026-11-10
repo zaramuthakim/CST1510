@@ -1,6 +1,6 @@
-NAME = Zara Muthakim
-LANE = Cyber
-DATE = 27/10/2026
+NAME = "Zara"
+LANE = "Cyber"
+DATE = "27/10/2026"
 print(f"Name: {NAME}")
 print(f"Lane: {LANE}")
 print(f"Date: {DATE}")

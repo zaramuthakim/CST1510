@@ -1,11 +1,3 @@
-# Week 3 — Extra Practice Projects
-
----
-
-## Rock, Paper, Scissors
-
-**Uses:** functions, `return`, `random.randint()`
-
 import random
 
 def get_computer_choice():
@@ -16,8 +8,7 @@ def get_computer_choice():
         return "paper"
     else:
         return "scissors"
-
----
+    
 def decide_winner(user_choice, computer_choice):
     if user_choice == computer_choice:
         return "draw"
